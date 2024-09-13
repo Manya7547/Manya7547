@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Bilingual Educational App**
  
- 🌱 I’m currently learning **Docker, AWS**
+ 🌱 I’m currently learning **Terraform**
 
 ⚡ Fun fact: **I'm most productive between 1:00am and 2:00am, any other night owls here?** 
 
