@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Bilingual Educational App**
-
  </div>
  
 <div align="center"> 
@@ -37,14 +35,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Manya7547/Manya7547/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
